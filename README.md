@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/1111946.jpg)
+![MasterHead](https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Tariq Rasheed you can call me hadiq</h1>
 <h3 align="center">Student at NIT srinagar ,Jammu and Kashmir ,India</h3>
 
