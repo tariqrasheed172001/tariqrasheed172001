@@ -1,6 +1,6 @@
 ![MasterHead](https://drive.google.com/uc?export=view&id=1ptqPSIWaKMWp7uHEFonW9b_WWjy3wxA9)
 <h1 align="center">Hi 👋, I'm Tariq Rasheed you can call me hadiq</h1>
-<h3 align="center">Student at NIT srinagar ,Jammu and Kashmir ,India</h3>
+<h3 align="center">Software Engineer at DexKor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tariqrasheed172001&label=Profile%20views&color=0e75b6&style=flat" alt="tariqrasheed172001" /> </p>
 
@@ -10,13 +10,11 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-d7646.web.app/](https://portfolio-d7646.web.app/)
-
-- 💬 Ask me about **javascript,reactJs,firbase**
+- 💬 Ask me about **JavaScript, TypeScript,ReactJs, Nextjs, Nodejs, etc**
 
 - 📫 How to reach me **rasheedhadiq@gmail.com**
 
-- 📄 Know about my experiences [https://tariqrasheed172001.github.io/personal-website/MyResume.pdf](https://tariqrasheed172001.github.io/personal-website/MyResume.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MxfN4Nh4bkqatRw4VU6NXNobA_-iM2Vu/view?usp=sharing)
 
 - ⚡ Fun fact **First vehicle that i drove was a horse-cart**
 
