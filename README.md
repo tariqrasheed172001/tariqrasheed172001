@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
-- 💬 Ask me about **JavaScript, TypeScript,ReactJs, Nextjs, Nodejs, etc**
+- 💬 Ask me about **JavaScript, TypeScript,ReactJs, Nextjs, Nodejs, NestJs, EpressJs etc**
 
 - 📫 How to reach me **rasheedhadiq@gmail.com**
 
