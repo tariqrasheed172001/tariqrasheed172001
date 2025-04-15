@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/tariqra79688874" target="blank"><img src="https://img.shields.io/twitter/follow/tariqra79688874?logo=twitter&style=for-the-badge" alt="tariqra79688874" /></a> </p>
 
-- 🌱 I’m currently learning **Data structures and algorithms**
+- 🌱 I’m currently learning **Microservices**
 
-- 💬 Ask me about **JavaScript, TypeScript,ReactJs, Nextjs, Nodejs, NestJs, EpressJs etc**
+- 💬 Ask me about **Data structures and algorithms, JavaScript, TypeScript,ReactJs, Nextjs, Nodejs, NestJs, EpressJs etc**
 
 - 📫 How to reach me **rasheedhadiq@gmail.com**
 
