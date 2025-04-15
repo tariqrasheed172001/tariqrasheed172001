@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqrasheed172001" alt="tariqrasheed172001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tariqra79688874" target="blank"><img src="https://img.shields.io/twitter/follow/tariqra79688874?logo=twitter&style=for-the-badge" alt="tariqra79688874" /></a> </p>
+<p align="left"> <a href="https://x.com/tariq_shameema" target="blank"><img src="https://x.com/tariq_shameema/photo" alt="tariq_shameema" /></a> </p>
 
 - 🌱 I’m currently learning **Microservices**
 
