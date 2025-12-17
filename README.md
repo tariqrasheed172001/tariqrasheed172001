@@ -6,7 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqrasheed172001" alt="tariqrasheed172001" /></a> </p>
 
-<p align="left"> <a href="https://x.com/tariq_shameema" target="blank"><img src="https://x.com/tariq_shameema/photo" alt="tariq_shameema" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/tariq_shameema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tariq_shameema" height="30" width="40" /></a>
+</p>
 
 - 🌱 I’m currently learning **Microservices**
 
