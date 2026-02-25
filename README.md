@@ -1,5 +1,5 @@
 ![MasterHead](https://drive.google.com/uc?export=view&id=1ptqPSIWaKMWp7uHEFonW9b_WWjy3wxA9)
-<h1 align="center">Hi 👋, I'm Tariq Rasheed you can call me hadiq</h1>
+<h1 align="center">Hi 👋, I'm Tariq Rasheed you can call me Hadiq</h1>
 <h3 align="center">Software Engineer at <a href="https://cryptlex.com">Cryptlex</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tariqrasheed172001&label=Profile%20views&color=0e75b6&style=flat" alt="tariqrasheed172001" /> </p>
