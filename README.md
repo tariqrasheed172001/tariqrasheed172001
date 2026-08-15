@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **rasheedhadiq@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MxfN4Nh4bkqatRw4VU6NXNobA_-iM2Vu/view?usp=sharing)
-
 - ⚡ Fun fact **First vehicle that i drove was a horse-cart**
 
 
