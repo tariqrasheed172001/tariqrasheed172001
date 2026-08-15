@@ -16,10 +16,3 @@
 - 📫 How to reach me **rasheedhadiq@gmail.com**
 
 - ⚡ Fun fact **First vehicle that i drove was a horse-cart**
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tariqrasheed172001&show_icons=true&locale=en&layout=compact" alt="tariqrasheed172001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tariqrasheed172001&show_icons=true&locale=en" alt="tariqrasheed172001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tariqrasheed172001&" alt="tariqrasheed172001" /></p>
