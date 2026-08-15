@@ -1,4 +1,3 @@
-![MasterHead](https://drive.google.com/uc?export=view&id=1ptqPSIWaKMWp7uHEFonW9b_WWjy3wxA9)
 <h1 align="center">Hi 👋, I'm Tariq Rasheed you can call me Hadiq</h1>
 <h3 align="center">Software Engineer at <a href="https://cryptlex.com">Cryptlex</a></h3>
 
